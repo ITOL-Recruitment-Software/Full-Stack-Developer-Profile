@@ -1,205 +1,154 @@
 <div align="center">
-<h1>Hi, I'm Your Name Here!</h1>
-<h3>Full-Stack Developer &nbsp;•&nbsp; Front-End Developer &nbsp;•&nbsp; Back-End Developer &nbsp;•&nbsp; Cloud Developer</h3>
-<p>
-Building web applications from front to back — HTML, CSS, JavaScript, React, Python, SQL, and Cloud.
-</p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
+  <h1>Hi, I'm [Your Name]</h1>
+  <h3>Full-Stack Developer | Building scalable web apps and interactive experiences</h3>
+  
+  <p>
+    <a href="mailto:YourEmailHere">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="YourLinkedInProfileHere">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="YourGitHubProfileHere">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Cloud+%26+DevOps+Enthusiast;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 </div>
+
+### About Me
+
+I am a Full-Stack Developer focused on building clean, performant, and user-centered applications.  
+I turn ideas into production-ready products using modern web technologies, with a strong foundation in both frontend and backend systems.
+
+Currently open to full-time Full-Stack, Frontend, and Backend roles.
+
+- Building scalable web applications and interactive 3D experiences
+- Deepening expertise in React, Node.js, cloud architecture, and Three.js
+- Ask me about clean architecture, performance optimization, or full-stack project structure
+- I enjoy turning complex problems into simple, elegant solutions
+
+### Preferred Roles
+
+I am currently open to full-time opportunities in the following areas:
+
+- Full-Stack Developer
+- Frontend Developer (React / TypeScript focus)
+- Backend Developer (Node.js / Python)
+- Junior to Mid-level positions
+- Remote or hybrid roles preferred
+
+### Tech Stack
+
+#### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Backend and Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Cloud, DevOps and Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| Portfolio Website | Responsive personal portfolio with modern UI, dark mode, and project showcase. Built with performance and accessibility in mind. | HTML, Tailwind, SASS, JavaScript | [Live Demo](#) · [Code](#) |
+| React Web Application | Interactive application demonstrating component architecture, state management, routing, and dynamic data rendering. | React, Tailwind, JavaScript | [Live Demo](#) · [Code](#) |
+| 2D Browser Game | Canvas-based game with character control, collision detection, animation, and sound. Focused on clean game loop and performance. | HTML, JavaScript, Canvas API | [Play](#) · [Code](#) |
+| Python + SQL Data App | Backend data application with structured queries, data processing, and clean output. Demonstrates solid database design. | Python, SQL, Git | [Code](#) |
+
+### Key Achievements
+
+- Built multiple end-to-end web applications from planning to deployment
+- Developed interactive browser-based experiences using modern JavaScript and Canvas / Three.js
+- Designed and implemented database schemas and data-driven features using SQL
+- Deployed projects using modern hosting platforms and version control best practices
+- Continuously improving architecture, performance, and code quality across personal projects
+
+### Professional Strengths
+
+- Clean and maintainable code with a focus on readability and performance
+- Strong problem-solving and debugging skills
+- Ability to work independently and in collaborative team environments
+- Clear communication of technical concepts to both technical and non-technical stakeholders
+- Continuous learning mindset and willingness to adopt new tools and practices
+
+### Tools and Methodologies
+
+- Version Control: Git and GitHub (branching, pull requests, clean commit history)
+- Development Environment: VS Code, Vite, modern package managers
+- Testing Mindset: Manual testing and awareness of unit / integration testing practices
+- Project Structure: Modular code organization, separation of concerns, configuration via JSON and settings files
+- Deployment: Static hosting, basic cloud services (AWS / Azure fundamentals)
+
+### Currently Learning
+
+- Advanced React patterns and hooks
+- Node.js backend architecture
+- SQL and database design
+- AWS and Azure cloud fundamentals
+- Full-stack project structure and deployment
+- API design and integration
+
+### Certifications and Learning Goals
+
+- Currently preparing for AWS Cloud Practitioner
+- Exploring Microsoft Azure fundamentals
+- Focusing on advanced React patterns, TypeScript, and backend architecture
+- Building deeper knowledge of full-stack application structure and deployment pipelines
+
+### How I Work
+
+I approach projects with a clear structure:
+
+1. Understand requirements and break them into manageable parts
+2. Design a clean architecture and data flow
+3. Implement with modern tools (React, Vite, Node.js, etc.)
+4. Keep configuration external (JSON data files and settings)
+5. Test, refine, and document as I go
+6. Deploy and iterate based on feedback
+
+### GitHub Stats
+
 <div align="center">
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="YourLinkedInProfileHere">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:YourEmailHere">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="YourGitHubProfileHere">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsernameHere&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </div>
-<h2>About Me</h2>
-<table>
-  <tr>
-    <td width="65%">
-    <p>I am an aspiring <strong>Full-Stack Developer</strong> with a passion for building clean, performant, and user-friendly web applications that solve real-world problems.</p>
-    <h3>My primary interests include:</h3>
-    <ul>
-      <li>Front-End Development (HTML, CSS, JavaScript, React.js)</li>
-      <li>Back-End Development (Python, SQL, Node.js)</li>
-      <li>Cloud Computing (AWS, Microsoft Azure)</li>
-      <li>Version Control (Git & GitHub)</li>
-      <li>Responsive & Accessible Web Design</li>
-      <li>Database Design & Management</li>
-      <li>Full-Stack Application Architecture</li>
-      <li>DevOps & Deployment</li>
-    </ul>
-    <p>I enjoy turning ideas into working applications while continuously building my skills through real projects.</p>
-    </td>
-    <td width="35%" align="center">
-      <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="Image Address Here" alt="Profile photo" width="200" style="border-radius: 50%;"/>
-    </td>
-  </tr>
-</table>
-<h2>Full-Stack Technology Stack</h2>
-<h3>Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-<h3>Front-End</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-0F172A?style=for-the-badge" alt="Responsive Design"/>
-</p>
-<h3>Back-End & Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge" alt="Database Design"/>
-</p>
-<h3>Cloud & DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="AWS, Azure, Git, GitHub, VSCode"/>
-</p>
-<h2>Full-Stack Skills</h2>
+
 <div align="center">
-<table>
-  <tr>
-    <th align="center">Front-End</th>
-    <th align="center">Back-End & Data</th>
-    <th align="center">Cloud & Tooling</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>HTML5 Semantics</li>
-        <li>CSS3 & Tailwind</li>
-        <li>SASS / Preprocessors</li>
-        <li>JavaScript (ES6+)</li>
-        <li>React.js & Hooks</li>
-        <li>Responsive Design</li>
-        <li>Canvas API</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Python Scripting</li>
-        <li>SQL & Databases</li>
-        <li>Command Line / CLI</li>
-        <li>REST Principles</li>
-        <li>Data-Driven Apps</li>
-        <li>GitHub & Version Control</li>
-        <li>Portfolio Deployment</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>AWS Fundamentals</li>
-        <li>Microsoft Azure</li>
-        <li>Git Workflow</li>
-        <li>VS Code</li>
-        <li>Netlify / Static Hosting</li>
-        <li>GitHub Pages</li>
-        <li>Cloud Security Basics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-<h2>Featured Projects</h2>
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Portfolio Website</h3>
-      <p>
-      A responsive personal portfolio website showcasing skills, projects, and experience — built at Level 2 of the diploma using HTML, Tailwind CSS, SASS, and JavaScript.
-      </p>
-      <b>Stack:</b> HTML · Tailwind CSS · SASS · JavaScript
-      <br/>
-      <a href="#">View Project →</a>
-    </td>
-    <td width="50%">
-      <h3>React.js Web Application</h3>
-      <p>
-      An interactive web app built with React.js, demonstrating component architecture, state management, and dynamic rendering.
-      </p>
-      <b>Stack:</b> HTML · Tailwind CSS · JavaScript · React.js
-      <br/>
-      <a href="#">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>JavaScript Browser Game</h3>
-      <p>
-      A 2D browser game using the Canvas API — featuring character control, animation, collision detection, sound, and interactive objects.
-      </p>
-      <b>Stack:</b> HTML · JavaScript · Canvas API
-      <br/>
-      <a href="#">Play Game →</a>
-    </td>
-    <td>
-      <h3>Python & SQL Data App</h3>
-      <p>
-      A data-driven back-end application using Python and SQL — structured queries, database management, and meaningful output.
-      </p>
-      <b>Stack:</b> Python · SQL · GitHub
-      <br/>
-      <a href="#">View Project →</a>
-    </td>
-  </tr>
-</table>
-<h2>Currently Learning</h2>
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>React.js — Advanced patterns & hooks</li>
-        <li>Python back-end development</li>
-        <li>SQL database design</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>GitHub — Branching strategies & CI/CD</li>
-        <li>AWS Cloud Practitioner certification</li>
-        <li>Microsoft Azure fundamentals</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Full-stack project architecture</li>
-        <li>API design & integration</li>
-        <li>Deployment & cloud hosting</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<h2>GitHub Analytics</h2>
-<div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
-</div>
-<h3>Activity Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
-</div>
-<h3>Visitor Count</h3>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsernameHere&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
-</div>
-<div align="center">
-  <strong>"The best developers are those who never stop building, never stop learning, and never stop shipping."</strong>
-</div>
-<div align="center">
-  <sub>Studied the <a href="https://itonlinelearning.com/course/coding-diploma/">Coding Diploma</a> at <a href="https://itonlinelearning.com">ITonlinelearning</a> BCS Tech10 Accredited</sub>
-</div>
+
+### Education
+
+Studied the Coding Diploma at ITonlinelearning (BCS Tech10 Accredited)
+
+### Contact
+
+I am actively looking for full-time opportunities.  
+Feel free to reach out via email or LinkedIn.
