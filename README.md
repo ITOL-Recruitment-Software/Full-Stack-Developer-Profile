@@ -2,18 +2,42 @@
   <h1>Hi, I'm [Your Name]</h1>
   <h3>Full-Stack Developer | Building scalable web apps and interactive experiences</h3>
 
-  <p>
+  <p align="center">
+    <!-- Social & Professional -->
     <a href="mailto:YourEmailHere">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="YourMediumProfileHere">
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="YourStackOverflowProfileHere">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
     </a>
     <a href="YourLinkedInProfileHere">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="YourGitHubProfileHere">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <a href="YourPortfolioHere">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+
+    <!-- Developer Communities & Profiles -->
+    <a href="https://dev.to/YourUsername">
+      <img src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
+    </a>
+    <a href="https://gitlab.com/YourUsername">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    </a>
+    <a href="https://hashnode.com/@YourUsername">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+    </a>
+    <a href="https://codepen.io/YourUsername">
+      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+    </a>
+    <a href="https://huggingface.co/YourUsername">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
     </a>
   </p>
 
@@ -102,39 +126,6 @@ Currently open to full-time Full-Stack, Frontend, and Backend roles.
 - Testing: Manual testing with awareness of unit and integration practices
 - Project Structure: Modular organization, separation of concerns, external configuration (JSON + settings files)
 - Deployment: Static hosting and basic cloud services (AWS / Azure)
-
-### How I Work
-
-1. Understand requirements and break them into manageable parts
-2. Design a clean architecture and data flow
-3. Implement with modern tools (React, Vite, Node.js, etc.)
-4. Keep configuration external (JSON data files and settings)
-5. Test, refine, and document as I go
-6. Deploy and iterate based on feedback
-
-### Currently Learning & Goals
-
-- Advanced React patterns and hooks
-- Node.js backend architecture
-- SQL and database design
-- AWS Cloud Practitioner preparation
-- Microsoft Azure fundamentals
-- Full-stack project structure, API design, and deployment pipelines
-
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsernameHere&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-### Education
-
-Studied the Coding Diploma at ITonlinelearning (BCS Tech10 Accredited)
 
 ### Contact
 
